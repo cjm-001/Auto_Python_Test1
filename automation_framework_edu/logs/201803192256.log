@@ -1,0 +1,6 @@
+2018-03-19 22:56:20,460 - BrowserEngine - INFO - You had select Chrome browser.
+2018-03-19 22:56:20,461 - BrowserEngine - INFO - The test server url is: https://edu.51cto.com
+2018-03-19 22:56:25,762 - BrowserEngine - INFO - 打开谷歌浏览器
+2018-03-19 22:56:27,666 - BrowserEngine - INFO - open url: https://edu.51cto.com
+2018-03-19 22:56:28,894 - BrowserEngine - INFO - 最大化窗口
+2018-03-19 22:56:28,898 - BrowserEngine - INFO - 等待10s

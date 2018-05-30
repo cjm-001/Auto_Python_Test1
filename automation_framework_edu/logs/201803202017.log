@@ -1,0 +1,19 @@
+2018-03-20 20:17:50,838 - BrowserEngine - INFO - You had select Chrome browser.
+2018-03-20 20:17:50,838 - BrowserEngine - INFO - The test server url is: http://edu.51cto.com/user/login.html
+2018-03-20 20:17:56,506 - BrowserEngine - INFO - 打开谷歌浏览器
+2018-03-20 20:17:57,608 - BrowserEngine - INFO - open url: http://edu.51cto.com/user/login.html
+2018-03-20 20:17:58,786 - BrowserEngine - INFO - 最大化窗口
+2018-03-20 20:17:58,788 - BrowserEngine - INFO - 等待10s
+2018-03-20 20:18:15,976 - BrowserEngine - INFO - You had select Chrome browser.
+2018-03-20 20:18:15,976 - BrowserEngine - INFO - The test server url is: http://edu.51cto.com/user/login.html
+2018-03-20 20:18:21,011 - BrowserEngine - INFO - 打开谷歌浏览器
+2018-03-20 20:18:21,960 - BrowserEngine - INFO - open url: http://edu.51cto.com/user/login.html
+2018-03-20 20:18:23,124 - BrowserEngine - INFO - 最大化窗口
+2018-03-20 20:18:23,125 - BrowserEngine - INFO - 等待10s
+2018-03-20 20:18:25,176 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='loginform-username'] 
+2018-03-20 20:18:25,318 - BasePage - INFO - Had type ' cuijm51 ' in inputBox
+2018-03-20 20:18:25,358 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='loginform-password'] 
+2018-03-20 20:18:25,454 - BasePage - INFO - Had type ' qqqqqq ' in inputBox
+2018-03-20 20:18:27,508 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='login-form']/div[3]/input 
+2018-03-20 20:18:27,599 - BasePage - INFO - The element '  ' was clicked.
+2018-03-20 20:18:27,604 - BasePage - INFO - current page title is 51CTO技术家园

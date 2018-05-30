@@ -1,0 +1,18 @@
+2018-03-19 20:18:57,882 - BrowserEngine - INFO - You had select Chrome browser.
+2018-03-19 20:18:57,882 - BrowserEngine - INFO - The test server url is: https://edu.51cto.com
+2018-03-19 20:19:03,013 - BrowserEngine - INFO - 打开谷歌浏览器
+2018-03-19 20:19:04,341 - BrowserEngine - INFO - open url: https://edu.51cto.com
+2018-03-19 20:19:05,523 - BrowserEngine - INFO - 最大化窗口
+2018-03-19 20:19:05,525 - BrowserEngine - INFO - 等待10s
+2018-03-19 20:19:05,582 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='pop_one']/div[2]/div/span/img 
+2018-03-19 20:19:05,661 - BasePage - INFO - The element '  ' was clicked.
+2018-03-19 20:19:05,718 - BasePage - INFO - Had find the element \ '  \ ' successfulby id via value: searchQ
+2018-03-19 20:19:05,819 - BasePage - INFO - Had type ' selenium ' in inputBox
+2018-03-19 20:19:06,063 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='Search']/button 
+2018-03-19 20:19:06,283 - BasePage - INFO - The element '  ' was clicked.
+2018-03-19 20:19:09,551 - BasePage - INFO - Had take screenhot and save to folder : /screenhots
+2018-03-19 20:19:09,591 - BasePage - INFO - Had find the element \ '  \ ' successfulby id via value: searchQ
+2018-03-19 20:19:09,674 - BasePage - INFO - Had type ' python ' in inputBox
+2018-03-19 20:19:09,712 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='Search']/button 
+2018-03-19 20:19:09,823 - BasePage - INFO - The element '  ' was clicked.
+2018-03-19 20:19:13,045 - BasePage - INFO - Had take screenhot and save to folder : /screenhots

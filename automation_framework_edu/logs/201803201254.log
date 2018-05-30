@@ -1,0 +1,10 @@
+2018-03-20 12:54:54,628 - BrowserEngine - INFO - You had select Chrome browser.
+2018-03-20 12:54:54,628 - BrowserEngine - INFO - The test server url is: https://edu.51cto.com
+2018-03-20 12:55:00,005 - BrowserEngine - INFO - 打开谷歌浏览器
+2018-03-20 12:55:02,098 - BrowserEngine - INFO - open url: https://edu.51cto.com
+2018-03-20 12:55:03,323 - BrowserEngine - INFO - 最大化窗口
+2018-03-20 12:55:03,325 - BrowserEngine - INFO - 等待10s
+2018-03-20 12:55:06,233 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='loginform-username'] 
+2018-03-20 12:55:06,357 - BasePage - INFO - Had type ' cuijm51 ' in inputBox
+2018-03-20 12:55:06,414 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='loginform-password'] 
+2018-03-20 12:55:06,503 - BasePage - INFO - Had type ' qqqqqq ' in inputBox

@@ -1,0 +1,19 @@
+2018-03-19 12:51:49,109 - BrowserEngine - INFO - You had select Chrome browser.
+2018-03-19 12:51:49,109 - BrowserEngine - INFO - The test server url is: https://edu.51cto.com
+2018-03-19 12:51:54,361 - BrowserEngine - INFO - 打开谷歌浏览器
+2018-03-19 12:51:55,869 - BrowserEngine - INFO - open url: https://edu.51cto.com
+2018-03-19 12:51:57,050 - BrowserEngine - INFO - 最大化窗口
+2018-03-19 12:51:57,054 - BrowserEngine - INFO - 等待10s
+2018-03-19 12:51:57,117 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='pop_one']/div[2]/div/span/img 
+2018-03-19 12:51:57,206 - BasePage - INFO - The element '  ' was clicked.
+2018-03-19 12:51:57,457 - BasePage - INFO - Had find the element \ '  \ ' successfulby id via value: searchQ
+2018-03-19 12:51:57,570 - BasePage - INFO - Had type ' selenium ' in inputBox
+2018-03-19 12:51:57,613 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='Search']/button 
+2018-03-19 12:51:57,848 - BasePage - INFO - The element '  ' was clicked.
+2018-03-19 12:52:01,114 - BasePage - INFO - Had take screenhot and save to folder : /screenhots
+2018-03-19 12:52:01,121 - BasePage - INFO - current page title is 51CTO学院 - IT人充电，上51CTO学院！
+2018-03-19 12:52:01,153 - BasePage - INFO - Had find the element \ '  \ ' successfulby id via value: searchQ
+2018-03-19 12:52:01,241 - BasePage - INFO - Had type ' python ' in inputBox
+2018-03-19 12:52:01,277 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='Search']/button 
+2018-03-19 12:52:01,394 - BasePage - INFO - The element '  ' was clicked.
+2018-03-19 12:52:04,642 - BasePage - INFO - Had take screenhot and save to folder : /screenhots

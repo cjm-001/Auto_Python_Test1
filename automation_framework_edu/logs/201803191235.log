@@ -1,0 +1,27 @@
+2018-03-19 12:35:10,575 - BrowserEngine - INFO - You had select Chrome browser.
+2018-03-19 12:35:10,576 - BrowserEngine - INFO - The test server url is: https://edu.51cto.com
+2018-03-19 12:35:16,239 - BrowserEngine - INFO - 打开谷歌浏览器
+2018-03-19 12:35:20,602 - BrowserEngine - INFO - open url: https://edu.51cto.com
+2018-03-19 12:35:21,780 - BrowserEngine - INFO - 最大化窗口
+2018-03-19 12:35:21,783 - BrowserEngine - INFO - 等待10s
+2018-03-19 12:35:21,842 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='pop_one']/div[2]/div/span/img 
+2018-03-19 12:35:21,989 - BasePage - INFO - The element '  ' was clicked.
+2018-03-19 12:35:22,044 - BasePage - INFO - Had find the element \ '  \ ' successfulby id via value: searchQ
+2018-03-19 12:35:22,156 - BasePage - INFO - Had type ' selenium ' in inputBox
+2018-03-19 12:35:22,200 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='Search']/button 
+2018-03-19 12:35:22,463 - BasePage - INFO - The element '  ' was clicked.
+2018-03-19 12:35:25,762 - BasePage - INFO - Had take screenhot and save to folder : /screenhots
+2018-03-19 12:35:25,769 - BasePage - INFO - current page title is 51CTO学院 - IT人充电，上51CTO学院！
+2018-03-19 12:35:25,806 - BasePage - INFO - Had find the element \ '  \ ' successfulby id via value: searchQ
+2018-03-19 12:35:25,887 - BasePage - INFO - Had type ' python ' in inputBox
+2018-03-19 12:35:25,922 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='Search']/button 
+2018-03-19 12:35:26,051 - BasePage - INFO - The element '  ' was clicked.
+2018-03-19 12:35:29,239 - BasePage - INFO - Had take screenhot and save to folder : /screenhots
+2018-03-19 12:35:32,482 - BrowserEngine - INFO - You had select Chrome browser.
+2018-03-19 12:35:32,482 - BrowserEngine - INFO - The test server url is: https://edu.51cto.com
+2018-03-19 12:35:37,743 - BrowserEngine - INFO - 打开谷歌浏览器
+2018-03-19 12:35:39,114 - BrowserEngine - INFO - open url: https://edu.51cto.com
+2018-03-19 12:35:40,339 - BrowserEngine - INFO - 最大化窗口
+2018-03-19 12:35:40,340 - BrowserEngine - INFO - 等待10s
+2018-03-19 12:35:40,392 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='pop_one']/div[2]/div/span/img 
+2018-03-19 12:35:40,479 - BasePage - INFO - The element '  ' was clicked.

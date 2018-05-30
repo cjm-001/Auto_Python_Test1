@@ -1,0 +1,9 @@
+2018-03-23 20:48:58,483 - BrowserEngine - INFO - You had select Chrome browser.
+2018-03-23 20:48:58,484 - BrowserEngine - INFO - The test server url is: https://edu.51cto.com
+2018-03-23 20:49:04,226 - BrowserEngine - INFO - 打开谷歌浏览器
+2018-03-23 20:49:05,727 - BrowserEngine - INFO - open url: https://edu.51cto.com
+2018-03-23 20:49:06,891 - BrowserEngine - INFO - 最大化窗口
+2018-03-23 20:49:06,914 - BrowserEngine - INFO - 等待10s
+2018-03-23 20:49:07,022 - BasePage - INFO - Had find the element \ '  \ ' successfulby id via value: searchQ
+2018-03-23 20:49:07,382 - BasePage - INFO - Had type ' selenium ' in inputBox
+2018-03-23 20:49:07,480 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='Search']/button 

@@ -1,0 +1,25 @@
+2018-03-23 20:56:23,449 - BrowserEngine - INFO - You had select Chrome browser.
+2018-03-23 20:56:23,449 - BrowserEngine - INFO - The test server url is: https://edu.51cto.com
+2018-03-23 20:56:28,629 - BrowserEngine - INFO - 打开谷歌浏览器
+2018-03-23 20:56:29,935 - BrowserEngine - INFO - open url: https://edu.51cto.com
+2018-03-23 20:56:31,161 - BrowserEngine - INFO - 最大化窗口
+2018-03-23 20:56:31,162 - BrowserEngine - INFO - 等待10s
+2018-03-23 20:56:31,223 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='pop_one']/div[2]/div/span/img 
+2018-03-23 20:56:31,305 - BasePage - INFO - The element '  ' was clicked.
+2018-03-23 20:56:31,361 - BasePage - INFO - Had find the element \ '  \ ' successfulby id via value: searchQ
+2018-03-23 20:56:31,670 - BasePage - INFO - Had type ' selenium ' in inputBox
+2018-03-23 20:56:31,719 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='Search']/button 
+2018-03-23 20:56:31,903 - BasePage - INFO - The element '  ' was clicked.
+2018-03-23 20:56:35,471 - BasePage - INFO - Had take screenhot and save to folder : /screenhots
+2018-03-23 20:56:35,478 - BasePage - INFO - current page title is 51CTO学院 - IT人充电，上51CTO学院！
+2018-03-23 20:56:35,517 - BasePage - INFO - Had find the element \ '  \ ' successfulby id via value: searchQ
+2018-03-23 20:56:35,609 - BasePage - INFO - Had type ' python ' in inputBox
+2018-03-23 20:56:35,647 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='Search']/button 
+2018-03-23 20:56:35,789 - BasePage - INFO - The element '  ' was clicked.
+2018-03-23 20:56:39,316 - BasePage - INFO - Had take screenhot and save to folder : /screenhots
+2018-03-23 20:56:42,441 - BrowserEngine - INFO - You had select Chrome browser.
+2018-03-23 20:56:42,441 - BrowserEngine - INFO - The test server url is: https://edu.51cto.com
+2018-03-23 20:56:47,519 - BrowserEngine - INFO - 打开谷歌浏览器
+2018-03-23 20:56:48,763 - BrowserEngine - INFO - open url: https://edu.51cto.com
+2018-03-23 20:56:49,968 - BrowserEngine - INFO - 最大化窗口
+2018-03-23 20:56:49,970 - BrowserEngine - INFO - 等待10s
